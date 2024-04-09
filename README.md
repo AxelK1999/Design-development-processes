@@ -1,0 +1,1 @@
+Diseño de procesos de desarrollo, donde se ha investigado, analizado e implementado actividades, técnicas y herramientas para la definición de un modelo de procesos que garantice un software de calidad.
